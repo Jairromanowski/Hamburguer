@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SlamDunk Burgers</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&family=Playball&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        
+        <nav>
+            <a href="index.html" rel="external" class="no-underline" >Home</a> 
+            <div class="vertical-line"></div>
+            <a href="cardapio.html" rel="external" class="no-underline">Cardápio</a>
+            <div class="vertical-line"></div>
+            <a href="lançamentos.html" rel="external" class="no-underline">Lançamentos</a>
+            <div class="vertical-line"></div>
+            <a href="promoçoes.html" rel="external" class="no-underline">Promoções</a>
+            <div class="vertical-line"></div>
+            <a href="quemsomos.html" rel="external" class="no-underline">Quem somos</a>
+            
+        </nav>
+        
+    </header>
+    
+    <main>
+
+
+    </main>
+
+
+<footer>
+
+
+</footer>
+
+
+
+</body>
+</html>
