@@ -5,13 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SlamDunk Burgers</title>
     <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&family=Playball&display=swap" rel="stylesheet">
-
+       
 </head>
 <body>
     <header>
         
         <nav>
+            <img src="Prancheta 2.png" id="Logo">
             <a href="index.html" rel="external" class="no-underline" >Home</a> 
             <div class="vertical-line"></div>
             <a href="cardapio.html" rel="external" class="no-underline">Cardápio</a>
@@ -27,8 +29,8 @@
     </header>
     
     <main>
-
-
+ <img src="Cachorro.jpg" class="Imgagem-ilustrativa">
+ 
     </main>
 
 
