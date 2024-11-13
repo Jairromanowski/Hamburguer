@@ -28,10 +28,18 @@
         
     </header>
     
-    <main>
- <img src="Cachorro.jpg" class="Imgagem-ilustrativa">
- 
-    </main>
+<main>
+
+    <img src="hambúrguer-de-frango.jpg" clas="imagem-ilutrativa" width="100%" height="auto">
+
+    <div class="card">
+        <img decoding="async" src="https://picsum.photos/id/237/200/300" alt="Imagem de exemplo">
+        <h2>Título do card</h2>
+        <p>Descrição do card.</p>
+        <button>Saiba mais</button>
+    </div>
+
+</main>
 
 
 <footer>
